@@ -1,0 +1,13 @@
+{
+    "name": "project-hh.ru-stroitehnika1",
+    "version":"1.0.0",
+    "description": "portfolio",
+    "main": "dist/main.js",
+    "private":"true",
+    "scripts": {},
+    "dependencies": {
+        "@fancyapps/ui":"5.0.0",
+        "@splidejs/splide":"^1.0.0"
+    }
+
+}
